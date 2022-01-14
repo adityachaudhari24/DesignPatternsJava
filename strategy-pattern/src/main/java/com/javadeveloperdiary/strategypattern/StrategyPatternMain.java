@@ -1,9 +1,6 @@
 package com.javadeveloperdiary.strategypattern;
 
-import com.javadeveloperdiary.strategypattern.daos.Product;
-import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-
-public class StrategyPatternTesting {
+public class StrategyPatternMain {
 
     public static void main(String[] args) {
 

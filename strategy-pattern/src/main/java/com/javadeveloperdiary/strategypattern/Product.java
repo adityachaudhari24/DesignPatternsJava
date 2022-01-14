@@ -1,4 +1,4 @@
-package com.javadeveloperdiary.strategypattern.daos;
+package com.javadeveloperdiary.strategypattern;
 
 public class Product {
     private String upcCode;

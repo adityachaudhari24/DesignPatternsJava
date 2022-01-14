@@ -1,7 +1,5 @@
 package com.javadeveloperdiary.strategypattern;
 
-import com.javadeveloperdiary.strategypattern.daos.Product;
-
 import java.util.ArrayList;
 import java.util.List;
 
