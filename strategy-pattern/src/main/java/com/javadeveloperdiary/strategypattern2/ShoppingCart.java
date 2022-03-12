@@ -1,4 +1,4 @@
-package com.javadeveloperdiary.strategypattern;
+package com.javadeveloperdiary.strategypattern2;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -27,7 +27,7 @@ public class ShoppingCart {
         return sum;
     }
 
-    public void pay( Payment paymentStrategy) {
+    public void pay(Payment paymentStrategy) {
         int amount = calculateTotal();
         paymentStrategy.pay(amount);
     }

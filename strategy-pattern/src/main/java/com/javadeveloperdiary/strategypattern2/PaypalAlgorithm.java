@@ -1,4 +1,4 @@
-package com.javadeveloperdiary.strategypattern;
+package com.javadeveloperdiary.strategypattern2;
 
 public class PaypalAlgorithm implements Payment {
 
