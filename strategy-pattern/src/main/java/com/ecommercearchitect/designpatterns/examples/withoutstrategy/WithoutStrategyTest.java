@@ -40,7 +40,7 @@ public class WithoutStrategyTest {
 
         /*
         * what is problem with the code ? what improvement we can do?
-        * 1. calculateShippingCharges method in CalculationService will become huge additional countries .
+        * 1. calculateShippingCharges method in CalculationService will become huge with additional countries .
         * 2. shipping cost calculation price can be isolated in different classes .
         *
         * */
