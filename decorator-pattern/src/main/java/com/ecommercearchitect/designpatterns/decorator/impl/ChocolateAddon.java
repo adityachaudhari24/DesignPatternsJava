@@ -6,8 +6,9 @@ import com.ecommercearchitect.designpatterns.decorator.IceCreamDecorator;
 public class ChocolateAddon extends IceCreamDecorator {
 
     IceCream iceCream;
+
     public ChocolateAddon(IceCream iceCream) {
-        this.iceCream=iceCream;
+        this.iceCream = iceCream;
     }
 
     @Override
@@ -19,6 +20,5 @@ public class ChocolateAddon extends IceCreamDecorator {
     public double cost() {
         return 1.0 + iceCream.cost();
     }
-
 
 }
