@@ -1,4 +1,4 @@
-package com.ecommercearchitect.designpatterns.factorypattern.withoutfactory;
+package com.withoutfactory;
 
 public interface Pizza {
     void prepare();

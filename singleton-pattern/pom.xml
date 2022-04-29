@@ -2,19 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>designpatternsjava</artifactId>
+        <groupId>org.javadeveloperdiary</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.javadeveloperdiary</groupId>
-    <artifactId>designpatternsjava</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>strategy-pattern</module>
-        <module>observer-pattern</module>
-        <module>decorator-pattern</module>
-        <module>factory-pattern</module>
-        <module>singleton-pattern</module>
-    </modules>
+    <artifactId>singleton-pattern</artifactId>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
