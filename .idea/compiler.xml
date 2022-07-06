@@ -10,6 +10,7 @@
         <module name="decorator-pattern" />
         <module name="strategy-pattern" />
         <module name="observer-pattern" />
+        <module name="command-pattern" />
       </profile>
     </annotationProcessing>
   </component>
