@@ -1,6 +1,4 @@
-package headfirst.command.remote;
-
-import java.util.*;
+package com.headfirstdesignpatterns.command.remote;
 
 //
 // This is the invoker

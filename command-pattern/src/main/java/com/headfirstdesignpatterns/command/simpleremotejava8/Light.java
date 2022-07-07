@@ -1,4 +1,4 @@
-package com.headfirstdesignpatterns.command.simpleremote;
+package com.headfirstdesignpatterns.command.simpleremotejava8;
 
 // command receiver.
 public class Light {

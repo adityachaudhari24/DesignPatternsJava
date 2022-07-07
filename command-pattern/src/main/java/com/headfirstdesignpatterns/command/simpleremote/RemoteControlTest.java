@@ -18,10 +18,14 @@ public class RemoteControlTest {
 
         // invoker holding command
         remote.setCommand(lightOff);
-
         // invoker ask to execute command
         remote.buttonWasPressed();
-        /*remote.setCommand(garageOpen);
-        remote.buttonWasPressed();*/
+
+        // invoker holding command
+        remote.setCommand(lightOn);
+        // invoker ask to execute command
+        remote.buttonWasPressed();
+
+
     }
 }
