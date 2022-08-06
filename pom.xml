@@ -17,7 +17,8 @@
         <module>command-pattern</module>
 =======
         <module>singleton-pattern</module>
->>>>>>> c546115a02ac5a27c8e38c18c62b26749c2c3e17
+        <module>adaptor-pattern</module>
+        >>>>>>> c546115a02ac5a27c8e38c18c62b26749c2c3e17
     </modules>
 
     <properties>

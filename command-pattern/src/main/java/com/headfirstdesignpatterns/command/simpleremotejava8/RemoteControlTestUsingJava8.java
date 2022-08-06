@@ -1,8 +1,5 @@
 package com.headfirstdesignpatterns.command.simpleremotejava8;
 
-import com.headfirstdesignpatterns.command.simpleremote.LightOffCommand;
-import com.headfirstdesignpatterns.command.simpleremote.LightOnCommand;
-
 // this is a client class.
 public class RemoteControlTestUsingJava8 {
     public static void main(String[] args) {

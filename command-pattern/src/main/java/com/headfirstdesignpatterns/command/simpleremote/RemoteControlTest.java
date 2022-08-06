@@ -5,12 +5,12 @@ package com.headfirstdesignpatterns.command.simpleremote;
 public class RemoteControlTest {
     public static void main(String[] args) {
 
-        // creating a concrete command - client class responsibility
+        // receiver which is not directly linked to client. (we associate receiver with Concrete Command only)
         Light light = new Light();
 
         // creating a concrete command & setting its receiver - client class responsibility
-        LightOnCommand lightOn = new LightOnCommand(light);
-        LightOffCommand lightOff = new LightOffCommand(light);
+        Command lightOn = new LightOnCommand(light);
+        Command lightOff = new LightOffCommand(light);
 
 
         // this is invoker which holds the command and at certain point ask command to carry out request by calling out its execute method
