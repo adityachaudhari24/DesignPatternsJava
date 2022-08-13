@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="facade-pattern" />
         <module name="factory-pattern" />
         <module name="decorator-pattern" />
         <module name="singleton-pattern" />
+        <module name="adaptor-pattern" />
         <module name="strategy-pattern" />
         <module name="observer-pattern" />
         <module name="command-pattern" />
