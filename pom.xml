@@ -17,6 +17,7 @@
         <module>singleton-pattern</module>
         <module>adaptor-pattern</module>
         <module>facade-pattern</module>
+        <module>template-patternn</module>
     </modules>
 
     <properties>

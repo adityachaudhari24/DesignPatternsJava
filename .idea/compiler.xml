@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="facade-pattern" />
+        <module name="template-patternn" />
         <module name="factory-pattern" />
         <module name="decorator-pattern" />
         <module name="singleton-pattern" />
