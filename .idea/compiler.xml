@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="facade-pattern" />
         <module name="template-patternn" />
+        <module name="iterator-pattern" />
         <module name="factory-pattern" />
         <module name="decorator-pattern" />
         <module name="singleton-pattern" />

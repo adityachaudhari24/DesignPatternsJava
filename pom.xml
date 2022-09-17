@@ -18,6 +18,7 @@
         <module>adaptor-pattern</module>
         <module>facade-pattern</module>
         <module>template-patternn</module>
+        <module>iterator-pattern</module>
     </modules>
 
     <properties>
