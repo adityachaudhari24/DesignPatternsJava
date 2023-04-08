@@ -4,12 +4,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/strategy-pattern/pom.xml" />
-        <option value="$PROJECT_DIR$/observer-pattern/pom.xml" />
-        <option value="$PROJECT_DIR$/decorator-pattern/pom.xml" />
-        <option value="$PROJECT_DIR$/factory-pattern/pom.xml" />
-        <option value="$PROJECT_DIR$/facade-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/adaptor-pattern/composite-pattern/pom.xml" />
       </list>
     </option>
   </component>
