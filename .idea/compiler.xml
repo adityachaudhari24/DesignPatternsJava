@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="proxy-pattern" />
         <module name="state-pattern" />
+        <module name="builder-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
