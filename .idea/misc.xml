@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/state-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/proxy-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/builder-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/prototype-pattern/pom.xml" />
       </list>
     </option>
   </component>
