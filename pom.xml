@@ -19,6 +19,9 @@
         <module>facade-pattern</module>
         <module>template-patternn</module>
         <module>iterator-pattern</module>
+        <module>visitor-pattern</module>
+        <module>untitled</module>
+        <module>visitor-pattern</module>
     </modules>
 
     <properties>
